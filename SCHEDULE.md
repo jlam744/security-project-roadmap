@@ -4,7 +4,7 @@
 
 | Week | Dates | Sessions | Work | Done |
 | --- | --- | --- | --- | --- |
-| 1 | Nov 15 to 21 | 6 | Upload repos and README fixes; Data classification and handling SOP; KC7 case 1 (#05); DLP detection tester (#12, 3 sessions) | [ ] |
+| 1 | Nov 15 to 21 | 6 | Upload repos and README fixes; Data classification and handling SOP; KC7 case 1 (#05); DLP detection tester (#12, 3 sessions) | [X] |
 | 2 | Nov 22 to 28 | 5 | Phishing email analyzer (#07, 4 sessions); KC7 case 2. Thanksgiving off | [ ] |
 | 3 | Nov 29 to Dec 5 | 6 | Azure lab setup; Honeypot v2 (#03, 4 sessions); KC7 case 3 | [ ] |
 | 4 | Dec 6 to 12 | 6 | ATT&CK coverage map (#02, 3 sessions); start Kerberoasting lab (#04) | [ ] |
